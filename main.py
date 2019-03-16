@@ -187,7 +187,7 @@ process_data(data)
 
 # input handling
 while True:
-    input_date = input("Enter month and date (mm.yyyy):")
+    input_date = input("Enter month and date (mm.yyyy) [ENTER to finish]:")
     if input_date:
         try:
             if (0 <= int(input_date.split(".")[0]) <= 12):
