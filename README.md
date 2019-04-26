@@ -1,4 +1,4 @@
 # Tariffication-System
 Mobile tariffiation system
 
-Home assignment
+Just a small home assignment for a friend from MSU 
